@@ -422,4 +422,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rcsRotation: 350
-  rcsThrust: 350
+  rcsThrust: 1800
